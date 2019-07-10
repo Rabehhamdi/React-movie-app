@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/.github.io/React-movie-app/static/css/main.d4d973e5.chunk.css",
+    "main.js": "/.github.io/React-movie-app/static/js/main.e8749ddc.chunk.js",
+    "main.js.map": "/.github.io/React-movie-app/static/js/main.e8749ddc.chunk.js.map",
+    "runtime~main.js": "/.github.io/React-movie-app/static/js/runtime~main.bc5d2c8d.js",
+    "runtime~main.js.map": "/.github.io/React-movie-app/static/js/runtime~main.bc5d2c8d.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/.github.io/React-movie-app/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/.github.io/React-movie-app/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/.github.io/React-movie-app/index.html",
+    "precache-manifest.5a9ec5d4bf87aa33b718911ab1bcb63c.js": "/.github.io/React-movie-app/precache-manifest.5a9ec5d4bf87aa33b718911ab1bcb63c.js",
+    "service-worker.js": "/.github.io/React-movie-app/service-worker.js",
+    "static/css/main.d4d973e5.chunk.css.map": "/.github.io/React-movie-app/static/css/main.d4d973e5.chunk.css.map"
+  }
+}
